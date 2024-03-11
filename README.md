@@ -1,5 +1,7 @@
 # Posts API
 
+## An empowering solution that enables users to seamlessly share their thoughts and engage with content in a social environment. This versatile API provides a robust platform for users to post texts, fostering a vibrant community atmosphere.
+
 ## Technologies
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
